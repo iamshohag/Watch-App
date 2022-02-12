@@ -1,0 +1,5 @@
+Heade Part : Gradient colour(#28a0e8,#37dbe2)
+
+footer colour: #0967d2
+
+Inner content Background : #2186eb
